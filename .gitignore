@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+bin/
+build/
+dist/
+*.spec
+*.log
+*.partial.mkv
+*.zip
+.DS_Store
