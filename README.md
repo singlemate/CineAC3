@@ -6,7 +6,7 @@ Windows desktop app for converting selected movie audio tracks to AC3,
 with a batch queue and a clean interface that scales with Windows display settings.
 Designed around playback on TVs such as the LG C2.
 
-![CineAC3 interface](docs/screenshot.png)
+![CineAC3 interface](screenshot.png)
 
 ## Возможности
 
